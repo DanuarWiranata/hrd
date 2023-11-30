@@ -25,7 +25,7 @@
 
     <div class="container">
 
-        <div class="card">
+        <div class="card action=/detailWorkshop">
             <img src="" alt="" width="600">
             <div class="card-body">
                 <h4>Judul Workshop</h4>
@@ -45,7 +45,7 @@
             </div>
         </div>
 
-        <div class="card">
+        <div class="card action=/detailWorkshop">
             <img src="" alt="" width="600">
             <div class="card-body">
                 <h4>Judul Workshop</h4>
@@ -65,7 +65,7 @@
             </div>
         </div>
 
-        <div class="card">
+        <div class="card action=/detailWorkshop">
             <img src="" alt="" width="600">
             <div class="card-body">
                 <h4>Judul Workshop</h4>
@@ -91,7 +91,7 @@
 
     <div class="container">
 
-        <div class="card">
+        <div class="card action=/detailWorkshop">
             <img src="" alt="" width="600">
             <div class="card-body">
                 <h4>Judul Workshop</h4>
@@ -111,7 +111,7 @@
             </div>
         </div>
 
-        <div class="card">
+        <div class="card action=/detailWorkshop">
             <img src="" alt="" width="600">
             <div class="card-body">
                 <h4>Judul Workshop</h4>
@@ -131,7 +131,7 @@
             </div>
         </div>
 
-        <div class="card">
+        <div class="card action=/detailWorkshop">
             <img src="" alt="" width="600">
             <div class="card-body">
                 <h4>Judul Workshop</h4>

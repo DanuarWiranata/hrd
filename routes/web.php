@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('login');
 });
 
 Route::get('/detailWorkshop', function () {
@@ -26,4 +26,8 @@ Route::get('/register', function () {
 
 Route::get('/login', function () {
     return view('login');
+});
+
+Route::get('/workshops', function () {
+    return view('workshops');
 });
