@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="style2.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="{{ URL::asset('css/detailWorkshop.css') }}">
+    <link rel="stylesheet" href="{{ URL::asset('css/style2.css') }}">
     <title>Detail Workshop</title>
 </head>
 <body>

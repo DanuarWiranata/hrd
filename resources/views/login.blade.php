@@ -25,7 +25,7 @@
             Today will be a great day, please login to your account
           </p>
 
-          <form action="/login" method="post" class="flex flex-col gap-4">
+          <form action="" method="" class="flex flex-col gap-4">
             <input
               class="p-2 rounded-xl border"
               type="email"
@@ -55,7 +55,7 @@
                 />
               </svg>
             </div>
-            <button
+            <button onclick="window.location.href='/dashboard'"
               class="bg-[#198076] rounded-xl text-white py-2 hover:scale-105 duration-300"
             >
               Login
