@@ -31,3 +31,6 @@ Route::get('/login', function () {
 Route::get('/workshops', function () {
     return view('workshops');
 });
+Route::get('/dashboard', function () {
+    return view('dashboard');
+});
