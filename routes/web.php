@@ -34,3 +34,6 @@ Route::get('/workshops', function () {
 Route::get('/dashboard', function () {
     return view('dashboard');
 });
+Route::get('/admin', function () {
+    return view('adminWorkshop');
+});
