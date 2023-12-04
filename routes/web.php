@@ -31,8 +31,8 @@ Route::get('/login', function () {
 Route::get('/workshops', function () {
     return view('workshops');
 });
-Route::get('/dashboard', function () {
-    return view('dashboard');
+Route::get('/home', function () {
+    return view('homepage');
 });
 Route::get('/admin', function () {
     return view('adminWorkshop');
